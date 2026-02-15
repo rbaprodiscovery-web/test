@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.BfcUj3B8.mjs";function t(e,t){return{description:` `,favicon:`https://framerusercontent.com/assets/Ou8zuEi165HtUXelxXfqgSGC6M.png`,robots:`max-image-preview:large`,socialImage:`https://framerusercontent.com/assets/pKBjx1hCpxU46TPPP9nKPLCjvA.png`,title:`EBO Max`}}var n=e((()=>{}));export{t as n,n as t};
+//# sourceMappingURL=shared-lib.ZsLVelYY.mjs.map

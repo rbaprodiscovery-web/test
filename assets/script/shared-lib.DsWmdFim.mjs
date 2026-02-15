@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.Bg-M69SG.mjs";function t(e,t){return{description:`All is single.`,favicon:`https://framerusercontent.com/assets/waubaJ9XfWQiitAyukbdJKX2YA.png`,robots:`max-image-preview:large`,socialImage:`https://framerusercontent.com/assets/JRDgIYerPKqNJAjfJpyxoz8HSY0.png`,title:`ONE`}}var n=e((()=>{}));export{t as n,n as t};
+//# sourceMappingURL=shared-lib.DsWmdFim.mjs.map
