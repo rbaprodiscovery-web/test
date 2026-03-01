@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.BL-rkief.mjs";function t(e,t){return{description:` `,favicon:`https://framerusercontent.com/assets/EBxDxo6IL9jqoeIkf0MlbJHgfQ.png`,robots:`max-image-preview:large`,socialImage:`https://framerusercontent.com/assets/GEof6Zu3C3hLaZeuYduiLf8zkU.png`,title:`ono`}}var n=e((()=>{}));export{t as n,n as t};
+//# sourceMappingURL=shared-lib.1NlaUyoZ.mjs.map
