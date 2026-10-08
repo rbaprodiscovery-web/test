@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.Dh6celcD.mjs";function t(e,t){return{description:` `,favicon:`https://framerusercontent.com/assets/sStwdNAwkJrUIINPuCcuRcUqvZo.png`,robots:`max-image-preview:large`,title:`jace`}}var n=e((()=>{}));export{t as n,n as t};
+//# sourceMappingURL=shared-lib.By_u0Lap.mjs.map
